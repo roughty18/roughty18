@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-basically i write trash pieces of code in bash or whatever and i post them here so you can either laugh at them or use them (would not reccomend).
+basically i write trash pieces of code in bash or whatever and i post them here so you can either laugh at them or use them (would not recommend).
