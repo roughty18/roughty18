@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-basically i write trash pieces of code in bash or whatever and i post them here so you can either laugh at them or use them (would not recommend).
+I mess around with Linux and build little tools to make life easier, mostly for me, sometimes for anyone else who ends up using them. Made dotman to handle my dotfiles without losing my marbles.
+
+I code because it’s fun, and, well… my IDE works at midnight. FOSS is my sandbox, I like sharing stuff, learning from others, and breaking things until they actually work.
+
+🐧 Linux | ⚡ Open Source
